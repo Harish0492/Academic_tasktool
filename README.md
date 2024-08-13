@@ -1,13 +1,5 @@
-# Academic Activity Task and Portfolio Assistant
+# Academic Task Tool and Portfolio Assistant
 
-***Team Members:***
-+ Harish Korukonda
-+ Vardhan Pothu
-+ Vineetha Ravulapalli
-+ Brandon McCoy
-
-GitHub Repository:
-https://github.com/McCoyBrandon/academic_activity
 
 
 # Product Objective:

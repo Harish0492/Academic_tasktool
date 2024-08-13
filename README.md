@@ -1,7 +1,4 @@
 # Academic Task Tool and Portfolio Assistant
-
-
-
 # Product Objective:
 The goal of this product is to create a task tracking tool that could be used for helping individual students and/or researchers manage their scholarly work and to retain the activities to create an academic portfolio.  It could also act as a reference engine to assist with finding materials from projects you worked on in the past. By creating a project manager that includes descriptions, references, and categorical tags it could assist academics refer back to sources of previous work. And from their ‘project completion list’ the portfolio assistant could create activity reports and possibly even a CV.
 
@@ -43,10 +40,10 @@ We used Visual Studio Code (https://code.visualstudio.com/) for IDE for their he
 **GitHub clone command:**
 ```
 cd path/to/desired/directory
-git clone https://github.com/McCoyBrandon/academic_activity.git
+git clone https://github.com/Harish0492/academic_tasktool.git
 ```
 
-**Fork the repository:** https://github.com/McCoyBrandon/academic_activity
+**Fork the repository:** https://github.com/Harish0492/academic_tasktool
 
 ### Setting up your MongoDB and CircleCi
 Before you start making adjustments to personalize the code to your own test environment, you will need to be set up MongoDB and CircleCi accounts.
